@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\games\\source\\repos\\DIary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\auth\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\auth\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|c:\\users\\games\\source\\repos\\diary1\\diary1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\auth\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\auth\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\auth\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\auth\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\auth\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\auth\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\views\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|C:\\Users\\games\\source\\repos\\DIary1\\diary1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9869A9B3-7F01-4A69-9492-ECA0C2F13E25}|DIary1\\DIary1.csproj|solutionrelative:diary1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T13:08:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DIary1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.xaml.cs",
+              "RelativeToolTip": "DIary1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:06:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DIary1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DIary1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:01:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.config",
+              "RelativeDocumentMoniker": "DIary1\\App.config",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.config",
+              "RelativeToolTip": "DIary1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-04T12:44:53.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\Auth\\SignIn.xaml.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignIn.xaml.cs",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\Auth\\SignIn.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:41:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "DIary1\\Models\\Connection.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Models\\Connection.cs",
+              "RelativeToolTip": "DIary1\\Models\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:44:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Views\\Pages\\Auth\\SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\Auth\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignUp.xaml.cs",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\Auth\\SignUp.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:37:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignUp.xaml",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\Auth\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignUp.xaml",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\Auth\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T12:17:31.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignIn.xaml",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\Auth\\SignIn.xaml",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\Auth\\SignIn.xaml",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\Auth\\SignIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T12:26:11.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "DIary1\\Views\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T10:53:54.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "DIary1\\Views\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:10:28.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DIary1\\Views\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\Views\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DIary1\\Views\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:53:53.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.xaml",
+              "RelativeDocumentMoniker": "DIary1\\App.xaml",
+              "ToolTip": "C:\\Users\\games\\source\\repos\\DIary1\\DIary1\\App.xaml",
+              "RelativeToolTip": "DIary1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T12:44:59.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
